@@ -1,0 +1,10 @@
+bctpy==0.5.2
+catboost==0.25.1
+EEGRAPH==0.1.12
+mne==0.24.1
+mne-bids==0.10
+pandas==1.4.1
+pyarrow==3.0.0
+pywt==1.0.0
+scikit-learn==0.24.1
+scipy==1.8.0
